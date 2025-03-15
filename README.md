@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @aptak
-- 👀 I’m interested in rocket science (sort of my day job, working at NASA)
-- 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-aptak/aptak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Andy Ptak
+Staff scientist in the X-ray astrophysics lab at NASA/GSFC
+NASA NewAthena Study Scientist
+AXIS Probe Project Scientist
+Technical Officer for the GSFC-JHU Cooperative Agreement
+Currently acting head of heasoft and future software development efforts at HEASARC
